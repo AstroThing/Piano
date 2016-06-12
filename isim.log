@@ -1,0 +1,88 @@
+ISim log file
+Running: C:\Users\nimer\Documents\Verilog Projects\Piano\main_test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/nimer/Documents/Verilog Projects/Piano/main_test_isim_beh.wdb 
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1 s
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 388940180 ns : File "C:/Users/nimer/Documents/Verilog Projects/Piano/main_test.v" Line 34
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 1 s
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 1 s
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 1 s
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 1 s
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 1 s
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 1 s
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 1 s
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 1 s
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 1 s
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 1 s
+Simulator is doing circuit initialization process.
+Hey
+Finished circuit initialization process.
+Hey
+Hey
+Hey
+Hey
+Hey
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 1 s
+Simulator is doing circuit initialization process.
+Hey
+Finished circuit initialization process.
+Hey
+Hey
+Hey
+Hey
+Hey
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 1 s
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 1 s
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

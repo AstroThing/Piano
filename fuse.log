@@ -1,0 +1,27 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/nimer/Documents/Verilog Projects/Piano/main_test_isim_beh.exe" -prj "C:/Users/nimer/Documents/Verilog Projects/Piano/main_test_beh.prj" "work.main_test" "work.glbl" 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/nimer/Documents/Verilog Projects/Piano/ROM.v" into library work
+Analyzing Verilog file "C:/Users/nimer/Documents/Verilog Projects/Piano/CLK_DIV.v" into library work
+Analyzing Verilog file "C:/Users/nimer/Documents/Verilog Projects/Piano/main.v" into library work
+Analyzing Verilog file "C:/Users/nimer/Documents/Verilog Projects/Piano/main_test.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 103020 KB
+Fuse CPU Usage: 265 ms
+Compiling module CLK_DIV(divider=16744)
+Compiling module CLK_DIV(divider=18795)
+Compiling module CLK_DIV(divider=21098)
+Compiling module CLK_DIV(divider=25088)
+Compiling module ROM
+Compiling module main
+Compiling module main_test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 8 Verilog Units
+Built simulation executable C:/Users/nimer/Documents/Verilog Projects/Piano/main_test_isim_beh.exe
+Fuse Memory Usage: 106584 KB
+Fuse CPU Usage: 280 ms
