@@ -431,16 +431,16 @@ Timing constraint: Default period analysis for Clock 'clk'
   Total number of paths / destination ports: 6340 / 264
 -------------------------------------------------------------------------
 Delay:               4.528ns (Levels of Logic = 9)
-  Source:            Re/counter_9 (FF)
+  Source:            Re/counter_8 (FF)
   Destination:       Re/counter_0 (FF)
   Source Clock:      clk rising
   Destination Clock: clk rising
 
-  Data Path: Re/counter_9 to Re/counter_0
+  Data Path: Re/counter_8 to Re/counter_0
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     FDR:C->Q              2   0.514   0.532  Re/counter_9 (Re/counter_9)
+     FDR:C->Q              2   0.514   0.532  Re/counter_8 (Re/counter_8)
      LUT4:I0->O            1   0.612   0.000  Re/clk_div_buff_cmp_eq0000_wg_lut<0> (Re/clk_div_buff_cmp_eq0000_wg_lut<0>)
      MUXCY:S->O            1   0.404   0.000  Re/clk_div_buff_cmp_eq0000_wg_cy<0> (Re/clk_div_buff_cmp_eq0000_wg_cy<0>)
      MUXCY:CI->O           1   0.052   0.000  Re/clk_div_buff_cmp_eq0000_wg_cy<1> (Re/clk_div_buff_cmp_eq0000_wg_cy<1>)
@@ -500,11 +500,11 @@ Offset:              4.040ns (Levels of Logic = 1)
 
 
 Total REAL time to Xst completion: 4.00 secs
-Total CPU time to Xst completion: 4.01 secs
+Total CPU time to Xst completion: 4.20 secs
  
 --> 
 
-Total memory usage is 203200 kilobytes
+Total memory usage is 202816 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :    1 (   0 filtered)

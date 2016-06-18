@@ -11,11 +11,5 @@
 <msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/nimer/Documents/Verilog Projects/Piano/CLK_DIV.v&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/nimer/Documents/Verilog Projects/Piano/ROM.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/nimer/Documents/Verilog Projects/Piano/main.v&quot; into library work</arg>
-</msg>
-
 </messages>
 

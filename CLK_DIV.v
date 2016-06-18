@@ -15,7 +15,7 @@ module CLK_DIV(
 	
 	always @ (posedge clk_in)
 	begin
-		if (counter == `FPGA_CLK_FEQ / divider)
+		if (counter == (`FPGA_CLK_FEQ / divider) / 2)
 		begin
 			clk_div_buff = !clk_div_buff;
 			counter = 32'h0;

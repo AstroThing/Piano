@@ -10,6 +10,6 @@ Net "keys[3]" LOC="C10" | IOSTANDARD = LVCMOS33;
 
 #Audio sample output
 Net "sample[0]" LOC="A10" | IOSTANDARD = LVCMOS33 | SLEW = SLOW | DRIVE = 8;
-Net "sample[1]" LOC="D10" | IOSTANDARD = LVCMOS33 | SLEW = SLOW | DRIVE = 8;
-Net "sample[2]" LOC="E7" | IOSTANDARD = LVCMOS33 | SLEW = SLOW | DRIVE = 8;
+Net "sample[1]" LOC="C8" | IOSTANDARD = LVCMOS33 | SLEW = SLOW | DRIVE = 8;
+Net "sample[2]" LOC="B4" | IOSTANDARD = LVCMOS33 | SLEW = SLOW | DRIVE = 8;
 Net "sample[3]" LOC="B1" | IOSTANDARD = LVCMOS33 | SLEW = SLOW | DRIVE = 8;
